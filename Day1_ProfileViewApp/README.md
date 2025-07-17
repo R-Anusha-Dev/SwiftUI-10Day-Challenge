@@ -20,7 +20,7 @@ Create a simple profile screen using **SwiftUI**, demonstrating:
 ## 🖼 Screenshots
 _Add your simulator screenshot below (e.g., `screenshot.png`)._
 
-![Profile View on iPhone 16 Pro](screenshot.png)
+![Profile View on iPhone 16 Pro](profileview.png)
 
 ---
 
