@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+
+# Xcode temporary files
+*.xcuserstate
+*.xcworkspace
+!*.xcodeproj
+
+# Swift Package Manager
+.swiftpm
+.build/
+
+# Derived Data
+DerivedData/
